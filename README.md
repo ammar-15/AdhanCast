@@ -15,6 +15,7 @@ A Windows GUI app to schedule and play Fajr, Maghrib, and Isha Adhan on Google N
 - **Tkinter**: GUI creation
 - **Flask**: Hosts Adhan MP3 files
 - **pychromecast**: Casts Adhan
+- **Socket**: Detects local IP for Flask server hosting
 - **schedule**: Automates Adhan playback
 - **pystray**: System tray functionality
 - **PyInstaller**: Converts script to executable
